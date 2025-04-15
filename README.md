@@ -48,7 +48,7 @@ Isso indica que o bot está conectado e funcionando.
 
 - Mensagem:
   ```js
-  const mensagem = 'Toma seu remédio meu amor';
+  const mensagem = 'SEU LEMBRETE';
   ```
 
 - Horário de envio (ex: 23:00):
